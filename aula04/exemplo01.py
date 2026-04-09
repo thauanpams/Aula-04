@@ -9,15 +9,15 @@ idade = 16
     # ---------------------------
 
 
-pontos = int (input('Informe os pontos:    '))
-if pontos >= 100: 
-    print('Execelente!')
-elif pontos >= 50:
-    print('Bom desempenho')
-elif pontos >= 25:
-    print('Satisfatório')
-else: 
-    print('Pratique mais')
+# pontos = int (input('Informe os pontos:    '))
+# if pontos >= 100: 
+#     print('Execelente!')
+# elif pontos >= 50:
+#     print('Bom desempenho')
+# elif pontos >= 25:
+#     print('Satisfatório')
+# else: 
+#     print('Pratique mais')
 
 #---------------------------
 
